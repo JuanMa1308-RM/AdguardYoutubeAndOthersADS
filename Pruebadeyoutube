@@ -1,0 +1,11 @@
+!
+! Title: AdguardYoutubeAndOthersADS
+! Description: Filters to youtuba ADS and others
+! Version: 1.0.0.1
+! Homepage: 
+! Last modified: 2026-02-23
+!
+! Compiled by JuanMa1308-RM
+!
+||redirector.googlevideo.com^
+||youtebei.googleapis.com^
