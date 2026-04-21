@@ -11,4 +11,5 @@
 ||youtebei.googleapis.com^
 ||play.googleapis.com^
 ||play-fe.googleapis.com^
+||gameswhitelisted.googleapis.com^
 
