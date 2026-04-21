@@ -9,4 +9,6 @@
 !
 ||redirector.googlevideo.com^
 ||youtebei.googleapis.com^
-||play.googleapis.com
+||play.googleapis.com^
+||play-fe.googleapis.com^
+
