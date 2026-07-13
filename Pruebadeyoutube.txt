@@ -7,9 +7,10 @@
 !
 ! Compiled by JuanMa1308-RM
 !
-||redirector.googlevideo.com^
-||youtebei.googleapis.com^
-||play.googleapis.com^
-||play-fe.googleapis.com^
-||gameswhitelisted.googleapis.com^
-
+||admob.com^
+||adsbygoogle.com^
+||googleads.com^
+||doubleclick.net^
+||googlesyndication.com^
+||pageadgooglesyndication.com^
+||googleadservices.com^
